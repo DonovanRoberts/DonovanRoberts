@@ -4,6 +4,7 @@
 
 - <b>Python Programming for Technology Application</b>
   - [Data Breach Method Tracker](https://github.com/DonovanRoberts/Python-Data-Breach-Tracker)
+  - [Scrapy Tutorial](https://github.com/DonovanRoberts/Python-Data-Breach-Tracker)
 - <b>Incident Response and Investigation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Foundations of Cybersecurity</b>
