@@ -8,7 +8,7 @@
 - <b>Incident Response and Investigation</b>
   - [Recovering Deleted and Damaged Files](https://github.com/DonovanRoberts/Recovering-Deleted-and-Damaged-Files)
 - <b>Network Technology and Infrastructure</b>
-  - [Network & Design: An In-Depth Analysis](https://github.com/DonovanRoberts/Recovering-Deleted-and-Damaged-Files)
+  - [Network & Design: An In-Depth Analysis](https://github.com/DonovanRoberts/Network-Design-Security)
 - <b>Foundations of Cybersecurity</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
