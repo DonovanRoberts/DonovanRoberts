@@ -15,6 +15,11 @@
 - <b>Network Technology and Infrastructure</b>
   - [Network & Design: An In-Depth Analysis](https://github.com/DonovanRoberts/Network-Design-Security)
 
+<h2>📺 Youtube Videos </h2>
+
+- [Forensic Investigation Techniques](https://youtu.be/OVygUwYuFWA)
+- [Ransomeware Incident Response: Volatile vs Non Volatile Evidence Response](https://youtu.be/lmrooKr5Puw)
+
 
 <h2>📰Articles </h2>
 
