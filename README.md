@@ -5,15 +5,16 @@
 - <b>Python Programming for Technology Application</b>
   - [Data Breach Method Tracker](https://github.com/DonovanRoberts/Python-Data-Breach-Tracker)
   - [Scrapy Tutorial](https://github.com/DonovanRoberts/Scrapy-Tutorial)
-- <b>Incident Response and Investigation</b>
-  - [Recovering Deleted and Damaged Files](https://github.com/DonovanRoberts/Recovering-Deleted-and-Damaged-Files)
-- <b>Network Technology and Infrastructure</b>
-  - [Network & Design: An In-Depth Analysis](https://github.com/DonovanRoberts/Network-Design-Security)
-- <b>Cloud Architecture and Application</b>
-  - [Designing a Secure Cloud Architecture](https://github.com/DonovanRoberts/Designing-a-Secure-Cloud-Architecture)
 - <b>Ethical Hacking & Defense</b>
   - [Capture The Flag (CTF)](https://github.com/DonovanRoberts/Capture-The-Flag)
   - [Man in the Middle Attack (MITM)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Incident Response and Investigation</b>
+  - [Recovering Deleted and Damaged Files](https://github.com/DonovanRoberts/Recovering-Deleted-and-Damaged-Files)
+- <b>Cloud Architecture and Application</b>
+  - [Designing a Secure Cloud Architecture](https://github.com/DonovanRoberts/Designing-a-Secure-Cloud-Architecture)
+- <b>Network Technology and Infrastructure</b>
+  - [Network & Design: An In-Depth Analysis](https://github.com/DonovanRoberts/Network-Design-Security)
+
 
 <h2>📰Articles </h2>
 
