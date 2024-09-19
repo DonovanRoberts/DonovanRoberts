@@ -12,7 +12,8 @@
 - <b>Cloud Architecture and Application</b>
   - [Designing a Secure Cloud Architecture](https://github.com/DonovanRoberts/Designing-a-Secure-Cloud-Architecture)
 - <b>Ethical Hacking & Defense</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Capture The Flag (CTF)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Man in the Middle Attack (MITM)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📰Articles </h2>
 
