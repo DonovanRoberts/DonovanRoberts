@@ -7,7 +7,7 @@
   - [Scrapy Tutorial](https://github.com/DonovanRoberts/Scrapy-Tutorial)
 - <b>Ethical Hacking & Defense</b>
   - [Capture The Flag (CTF)](https://github.com/DonovanRoberts/Capture-The-Flag)
-  - [Man in the Middle Attack (MITM)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Man in the Middle Attack (MITM)](https://github.com/DonovanRoberts/Man-In-The-Middle-Attack)
 - <b>Incident Response and Investigation</b>
   - [Recovering Deleted and Damaged Files](https://github.com/DonovanRoberts/Recovering-Deleted-and-Damaged-Files)
 - <b>Cloud Architecture and Application</b>
