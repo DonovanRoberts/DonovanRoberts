@@ -15,7 +15,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Cloud Architecture and Application</b>
-  - [Designing a Secure Cloud Architecture](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Designing a Secure Cloud Architecture](https://github.com/DonovanRoberts/Designing-a-Secure-Cloud-Architecture)
 - <b>Ethical Hacking & Defense</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
